@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    height: 100vh;
+    background-image: url("../img/back-img-1.jpg");
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+}
+
+.div1-1{
+    margin-top: 14px;
+
+    background-color: rgb(0,0,0,0.5);
+    padding: 30px;
+    text-align: center;
+}
+
+.div1-1 form{
+    width: 700px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1-1 input, .div1-1 select{
+    width: 80%;
+    margin: 12px;
+    padding: 12px;
+}
+
+.div2{
+    background-image: linear-gradient(to bottom, #dadada, #e0e0e0, #e7e7e7, #ededed, #f4f4f4, #f7f7f7, #fbfbfb, #fefefe, #fefefe, #ffffff, #ffffff, #ffffff);
+    min-height: 100vh;
+    text-align: center;
+}
+
+.div2 h2{
+    padding: 30px;
+}
+
+.div2-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.div2-2{
+    width: 250px;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 1px #000000;
+    transition: 0.3s;
+}
+
+.div2-2:hover{
+    box-shadow: 0 0 10px #000000;
+    transition: 0.3s;
+}
+
+.div2-2 img{
+    width: 250px;
+}
+
+.div2-2 p{
+    padding: 12px;
+}
+
+.div2-2 button{
+    width: 100%;
+    color: white;
+    padding: 10px;
+    border: none;
+    background-color: green;
+    outline: none;
+    cursor: pointer;
+}
