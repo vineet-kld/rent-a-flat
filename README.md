@@ -30,7 +30,7 @@ This website is to search and rent the flats available in the customer's area.
 <img src="/Rent-a-Flat/Screenshot/08-database.png">
 
 ### User's Benefit
-1. Search online for nearby avilable flats.
+1. Search online for nearby available flats.
 2. Option for: 1 BHK, 2 BHK and 3 BHK.
 3. Once selected contact the owner directly by clicking on "Call Now" option.
 <img src="/Rent-a-Flat/Screenshot/09-callnow.png">
