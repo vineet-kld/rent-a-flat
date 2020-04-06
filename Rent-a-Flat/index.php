@@ -65,8 +65,5 @@
     </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script async defer src="js/index-work.js"></script>
-
 </body>
 </html>
