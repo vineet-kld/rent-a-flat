@@ -1,6 +1,6 @@
 # Website: Rent-a-flat
 
-This website is to search and rent the flats avilable in the customer's area.
+This website is to search and rent the flats available in the customer's area.
 
 ## The Home Page
 <img src="/Rent-a-Flat/Screenshot/00-homepage.png">
