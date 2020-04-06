@@ -27,17 +27,7 @@
     <h2>Flats available near you are...</h2>
 
     <div class="div2-1">
-<!--
-        <div class="div2-2">
-            <img src="img/back-img-1.jpg" alt="">
-            <p>Name</p>
-            <p>1 BHK</p>
-            <p>Address: St. School</p>
-            <p>272175</p>
-            <button>Call Now</button>
-        </div>
 
--->
         <?php
         if(isset($_POST['submit'])) {
 
