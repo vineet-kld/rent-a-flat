@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .div1{
     height: 100vh;
     background-image: url("../img/back-img-1.jpg");
